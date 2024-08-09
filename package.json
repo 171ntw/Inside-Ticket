@@ -1,0 +1,17 @@
+{
+    "main": "index.js",
+    "description": "Este bot foi inspirado no Inside Ticket.",
+    "author": {
+        "name": "noahwx",
+        "url": "https://github.com/noahwx"
+    },
+    "dependencies": {
+        "discord-html-transcripts": "^3.2.0",
+        "discord.js": "^14.15.3",
+        "dotenv": "^16.4.5",
+        "wio.db": "^4.0.22"
+    },
+    "scripts": {
+        "start": "node index.js"
+    }
+}
