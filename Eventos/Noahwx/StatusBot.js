@@ -8,7 +8,7 @@ module.exports = {
         const updatePresence = () => {
             const guildCount = client.guilds.cache.size;
             const activities = [
-                { name: `🤖 Desenvolvido por noahwx`, type: ActivityType.Watching },
+                { name: `🤖 Desenvolvido por nathan`, type: ActivityType.Watching },
                 { name: `⚙️ Gerenciando ${guildCount} servidores simultâneos...`, type: ActivityType.Watching }
             ];
 
